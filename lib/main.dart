@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           color:Colors.black54,
                           offset: Offset(2.0,2.0),
                           blurRadius: 4.0
-                      )
+                      ),
                     ]
                 ),
                 child: Padding(
