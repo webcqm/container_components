@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Padding(
                   padding: EdgeInsets.symmetric(horizontal: 80.0, vertical: 18.0),
                   child: Text("Login", style: TextStyle(color: Colors.white),),
-                )
+                ),
             )
 
           ],
